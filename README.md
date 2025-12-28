@@ -5,4 +5,5 @@
 🚗 The platform is composed of two main components:
 
 Car System Access: a WhatsApp-based chatbot that allows residents to register vehicles, manage users, and grant or revoke access permissions in a simple and intuitive way.
+
 LPR (License Plate Recognition): an automated vehicle recognition system that detects authorized cars in real time and enables seamless access to residential areas. 
